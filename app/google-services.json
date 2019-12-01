@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259681098523",
+    "firebase_url": "https://centrumaps-b8bdc.firebaseio.com",
+    "project_id": "centrumaps-b8bdc",
+    "storage_bucket": "centrumaps-b8bdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259681098523:android:d6f071263dd1535569d1be",
+        "android_client_info": {
+          "package_name": "com.labawsrh.aws.CentrumAPS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259681098523-5rivmen19dq1n7qnv3td1a5tprsl90lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.labawsrh.aws.CentrumAPS",
+            "certificate_hash": "3b6cb687b4d74f7aad470036fe6ed801654d852d"
+          }
+        },
+        {
+          "client_id": "259681098523-27ab38kkh0e7dk3i9l9jt66fc1c5k956.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWNeYgF1R6Q91yRb4wtB3V92JUIYVkNQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259681098523-27ab38kkh0e7dk3i9l9jt66fc1c5k956.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

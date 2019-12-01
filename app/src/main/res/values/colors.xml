@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#020D1A</color>
+    <color name="colorPrimaryDark">#020D1A</color>
+    <color name="colorAccent">#020D1A</color>
+
+    <!-- colors for tab and screent text -->
+    <color name="tab_indicator_gray">#FFF</color>
+    <color name="intro_title_color">#FFF</color>
+    <color name="intro_description_color">#FFF</color>
+
+    <!-- Color background -->
+    <color name="colorBackground">#020D1A</color>
+
+    <color name="color1">#4682B4</color>
+    <color name="color2">#66CDAA</color>
+    <color name="color3">#FFF</color>
+    <color name="color4">#ADD8E6</color>
+
+</resources>
